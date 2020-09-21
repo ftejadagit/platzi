@@ -2,4 +2,8 @@ Esta es la historia de wwww
 www tiene 33 años y nació en Colombia
 Hoy hablaremos de su vida y obra maestra
 zzzz
+<<<<<<< HEAD
 Cambio a la versión master
+=======
+Aquí inicia la cabezera
+>>>>>>> rama1
